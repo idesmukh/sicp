@@ -15,7 +15,7 @@ The repository has been structured in the form of folders for each chapter. Each
 
 To run the code examples and work through the exercises, you will need a **Scheme interpreter**. You will need to download and install Racket, install the SICP language package, and select the SICP language in the DrRacket editor.
 
-## Chapter checklist ✅
+## Progress ✅
 
   - [ ] **Chapter 1**: Building Abstractions with Procedures
   - [ ] **Chapter 2**: Building Abstractions with Data
