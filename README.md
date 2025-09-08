@@ -7,19 +7,13 @@ and thus all its general ideas are made.
 > 
 > — John Locke, An Essay Concerning Human Understanding (1690)
 
------
-
 ## What's inside
 
 The repository has been structured in the form of folders for each chapter. Each chapter folder contains a `README.md` with my notes and observations, along with an `exercises` folder that contains all the solutions to the exercises.
 
------
-
 ## Getting started
 
 To run the code examples and work through the exercises, you will need a **Scheme interpreter**. You will need to download and install Racket, install the SICP language package, and select the SICP language in the DrRacket editor.
-
------
 
 ## Chapter Checklist ✅
 
@@ -28,8 +22,6 @@ To run the code examples and work through the exercises, you will need a **Schem
   - [ ] **Chapter 3**: Modularity, Objects, and State
   - [ ] **Chapter 4**: Metalinguistic Abstraction
   - [ ] **Chapter 5**: Computing with Register Machines
-
------
 
 ## License
 
