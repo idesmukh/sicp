@@ -23,6 +23,10 @@ To run the code examples and work through the exercises, you will need a **Schem
   - [ ] **Chapter 4**: Metalinguistic Abstraction
   - [ ] **Chapter 5**: Computing with Register Machines
 
+## Reference
+
+Abelson, H., Sussman, G.J. and Sussman, J., 1996. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press.
+
 ## License
 
 This code is provided under the MIT license.
