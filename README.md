@@ -1,4 +1,4 @@
-# Computer science from first principes with Structure and Interpretation of Computer Programs (SICP)
+# Computer science from first principles with Structure and Interpretation of Computer Programs (SICP)
 
 This repository showcases my journey exploring the book **Structure and Interpretation of Computer Programs (SICP)** by Harold Abelson and Gerald Jay Sussman. I chose to study SICP because it teaches one to think from first principles about abstraction, which is what all of computer science is about. My vision is to engineer infrastructure for large-scale systems and SICP will provide me with the best mental models on this journey.
 
